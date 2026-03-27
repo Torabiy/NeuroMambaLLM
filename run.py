@@ -1,3 +1,5 @@
+!pip install nilearn transformers peft bitsandbytes scikit-learn
+
 import os
 import random
 import json

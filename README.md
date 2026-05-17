@@ -3,7 +3,7 @@
 Dynamic Graph Learning of fMRI Functional Connectivity in Autistic Brains Using Mamba and Language Model Reasoning
 
 <p align="center">
-  <img src="figures/roi_visualization.png" alt="ROI visualization for NeuroMambaLLM" width="850"/>
+  <img src="roi.jpg" alt="ROI visualization for NeuroMambaLLM" width="850"/>
 </p>
 
 ## Citation
